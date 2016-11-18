@@ -1,0 +1,11 @@
+﻿{
+  "MailSettings": {
+    "ToAddress": "ronit@cybage.com"
+  },
+  "ConnectionStrings": {
+    "WorldContextConnection": "Server=(localdb)\\MSSQLLocalDB;Database=TheWorldDb;Trusted_Connection=true;MultipleActiveResultSets=true;"
+  },
+  "Keys": {
+    "BingKey": "AoaXe_GrgNmRuIdpZ98Xl9R7qbYag6WCUi7_NiTeOKWcYwPp-GeTwjoePnBvhVmD"
+  }
+}

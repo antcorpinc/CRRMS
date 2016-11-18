@@ -1,0 +1,4 @@
+#:D:\DEV\CRRMS\CRRMS.Web\CRRMS.Web.xproj
+D:\DEV\CRRMS\CRRMS.Web\CRRMS.Web.xproj|D:\DEV\CRRMS\CRRMS.Data\CRRMS.Data.xproj
+D:\DEV\CRRMS\CRRMS.Data\CRRMS.Data.xproj|D:\DEV\CRRMS\CRRMS.Entities\CRRMS.Entities.xproj
+D:\DEV\CRRMS\CRRMS.Entities\CRRMS.Entities.xproj|D:\DEV\CRRMS\Core.Common.Contracts\Core.Common.Contracts.xproj
